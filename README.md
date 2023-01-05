@@ -1,1 +1,1 @@
-# mern-tickets-project
+# Support Desk Project with MERN Stack
